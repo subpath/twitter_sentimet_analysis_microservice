@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 4. Get your Twitter credentials
 
- [You can get yor Twitter credentials here](https://apps.twitter.com)
+ [You can get your Twitter credentials here](https://apps.twitter.com)
 
 5. Install RabbitMQ:
 
@@ -64,7 +64,7 @@ instruction for mac: https://www.rabbitmq.com/install-homebrew.html
 
 7. Run Nameko: `nameko run service --config ./config.yaml`
 
-8. Run Flask (in different terminal): `python app.py`
+8. Run Flask (in a different terminal): `python app.py`
 
 ##### Whoa! It's finally running!
 

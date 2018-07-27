@@ -71,3 +71,6 @@ instruction for mac: https://www.rabbitmq.com/install-homebrew.html
 Now it ready to receive requests:
 
 By default you can send POST requests to `127.0.0.1:5000/collect`
+
+## Medium article:
+https://medium.com/cindicator/building-microservice-for-twitter-analysis-weekend-of-a-data-scientist-d37074956368

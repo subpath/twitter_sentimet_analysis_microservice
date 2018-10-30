@@ -21,7 +21,7 @@ path.py==11.0.1
 pbr==4.1.0
 PySocks==1.6.8
 PyYAML==3.13
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==1.0.0
 six==1.11.0
 SQLAlchemy==1.2.9

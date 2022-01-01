@@ -15,7 +15,7 @@ logger==1.4
 MarkupSafe==1.0
 mock==2.0.0
 nameko==2.14.0
-nltk==3.3
+nltk==3.6.5
 oauthlib==2.1.0
 path.py==11.0.1
 pbr==4.1.0

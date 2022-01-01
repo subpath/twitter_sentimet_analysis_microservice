@@ -20,7 +20,7 @@ oauthlib==2.1.0
 path.py==11.0.1
 pbr==4.1.0
 PySocks==1.6.8
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.0
 requests-oauthlib==1.0.0
 six==1.11.0

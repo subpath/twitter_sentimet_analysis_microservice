@@ -1,13 +1,15 @@
-"""POSTGRES CREDENTIALS"""
+# postgress creadentials
 
-DB_NAME = 'DB_NAME'
-DB_ADDRESS = 'HOST:PORT'
-USER_NAME = 'USER_NAME'
-DB_PASSWORD = 'PASSWORD'
-SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://{}:{}@{}/{}'.format(USER_NAME, DB_PASSWORD, DB_ADDRESS, DB_NAME)
+DB_NAME = "DB_NAME"
+DB_ADDRESS = "HOST:PORT"
+USER_NAME = "USER_NAME"
+DB_PASSWORD = "PASSWORD"
+SQLALCHEMY_DATABASE_URI = "postgresql+psycopg2://{}:{}@{}/{}".format(
+    USER_NAME, DB_PASSWORD, DB_ADDRESS, DB_NAME
+)
 
-"""TWITTER CREDENTIALS"""
-"""https://apps.twitter.com"""
+# twitter creadentials
+# https://apps.twitter.com
 
 CONSUMER_KEY = "YOUR_CONSUMER_KEY"
 CONSUMER_SECRET = "YOUR_CONSUMER_SECRET"
